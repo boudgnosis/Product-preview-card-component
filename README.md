@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor.](https://github.com/boudgnosis/Product-preview-card-component)
+- Solution URL: [This is the solution as seen from Frontend Mentor.](https://www.frontendmentor.io/solutions/accessibility-flexbox-responsive-transitions-R6pFRoFkc8)
 - Live Site URL: [Live solution](https://boudgnosis.github.io/Product-preview-card-component/)
 
 ## My process
