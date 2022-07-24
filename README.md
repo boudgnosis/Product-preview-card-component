@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [This is the solution as seen from Frontend Mentor.](https://www.frontendmentor.io/solutions/javascriptlibrary-flexbox-desktopfirst-mediaqueries-3U5vRE_3NL)
-- Live Site URL: [Live solution](https://boudgnosis.github.io/huddle-landing-page-with-curved-sections/)
+- Solution URL: [This is the solution as seen from Frontend Mentor.](https://github.com/boudgnosis/Product-preview-card-component)
+- Live Site URL: [Live solution](https://boudgnosis.github.io/Product-preview-card-component/)
 
 ## My process
 
